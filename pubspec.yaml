@@ -35,7 +35,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
-  zego_uikit_prebuilt_call: ^4.12.1 
+  zego_uikit_prebuilt_call: ^4.12.2
   zego_uikit_signaling_plugin: ^2.7.13
 
 dev_dependencies:
